@@ -1,0 +1,6 @@
+/*CSS for GeoJSON*/
+html, body, #mapid{
+	height: 100%;
+	width: 100%;
+	font-family:Courgette, Helvetica, sans-serif;
+}
